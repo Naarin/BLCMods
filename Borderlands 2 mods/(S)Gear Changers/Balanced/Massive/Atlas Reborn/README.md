@@ -1,3 +1,4 @@
+created by [Aaron0000](https://github.com/Aaron00000)
 # Description
 Completely overhauls the Vladof manufacturer into Atlas from Borderlands 1.
 # Screenshots
