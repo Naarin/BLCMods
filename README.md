@@ -12,8 +12,9 @@ Check out the [Wiki](https://github.com/BL2CP/BLCMods/wiki)
 If you are not part of BLCM, to contribute a mod:
 - `Fork` the repository (top right).
 - `Commit` files to the respective folders. (either `Borderlands 2 mods` or `Pre Sequel Mods`)    
-  under a personal folder that shares your github username    
-  E.g. (`Borderlands 2 mods/SomeDude/mod.txt`)
+  under one of categories of mods   
+  E.g. (`Borderlands 2 mods/(S)Gear Changes/Grenades/Mod_name/mod_name.txt`)
+- Create a `README.md` in your mods folder. There is a template for it [here](https://gist.github.com/bugworm/af51d6c711dc2b9fbfb377b83581598f), copy template, paste it to your file and change it. You can upload images to [imgur](https://imgur.com/) and use it in `Screenshot` section
 - Send a `Pull Request` to `Compare` merge your fork to the `master` branch.
 
 If you are part of [BLCM](https://github.com/BLCM) you do not need to fork or pull request.
